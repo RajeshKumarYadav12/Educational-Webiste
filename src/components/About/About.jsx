@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css';
 import About_img from '../../assets/about.png';
-import Play_icon from '../../assets/Play-icon.png';
+import Play_icon from '../../assets/play-icon.png';
 
 
 const About = ({setPlayState}) => {
