@@ -6,43 +6,37 @@ This is a fully responsive Educational Website built using React.js. It provides
 
 Features
 
-Fully responsive design
+1. Fully responsive design
 
-Interactive Hero Section with an engaging message
+2. Interactive Hero Section with an engaging message
 
-Programs Section showcasing different courses
+3. Programs Section showcasing different courses
 
-About Section with details about the university
+4. About Section with details about the university
 
-Campus Gallery for viewing campus photos
+5. Campus Gallery for viewing campus photos
 
-Testimonials Section displaying student reviews
+6. Testimonials Section displaying student reviews
 
-Contact Form for inquiries
+7. Contact Form for inquiries
 
-Video Player for showcasing promotional content
+8. Video Player for showcasing promotional content
 
-Technologies Used
+** Technologies Used **
 
-React.js (Frontend Development)
+1. React.js (Frontend Development)
 
-HTML, CSS (Styling & Layout)
+2. HTML, CSS (Styling & Layout)
 
-Vite (Development & Build Tool)
+3. Vite (Development & Build Tool)
 
-Installation & Usage
+** Installation & Usage **
 
-Clone the repository:
+Clone the repository: git clone https://github.com/RajeshKumarYadav12/Educational-Webiste.git
 
-git clone https://github.com/RajeshKumarYadav12/Educational-Webiste.git
+Navigate to the project folder: cd Educational-Webiste
 
-Navigate to the project folder:
-
-cd Educational-Webiste
-
-Install dependencies:
-
-npm install
+Install dependencies: npm install
 
 Run the development server:
 
@@ -53,20 +47,20 @@ Open http://localhost:5173/ in your browser to view the site.
 Folder Structure (Simplified)
 
 📂 src
-├── 📁 assets # Images, icons, and videos
-├── 📁 components # Reusable React components
-│ ├── Navbar # Navigation bar
-│ ├── Hero # Hero section
-│ ├── Program # Educational programs
-│ ├── About # About the university
-│ ├── Campus # Campus gallery
-│ ├── Testimonials # Student reviews
-│ ├── Contact # Contact form
-│ ├── Footer # Footer section
-│ ├── VideoPlayer # Video player component
-├── App.jsx # Main application component
-├── index.css # Global styles
-├── main.jsx # React entry file
+├── 📁 assets 
+├── 📁 components 
+│ ├── Navbar 
+│ ├── Hero 
+│ ├── Program 
+│ ├── About 
+│ ├── Campus 
+│ ├── Testimonials 
+│ ├── Contact 
+│ ├── Footer 
+│ ├── VideoPlayer 
+├── App.jsx 
+├── index.css 
+├── main.jsx 
 
 Contact
 
