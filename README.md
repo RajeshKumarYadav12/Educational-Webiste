@@ -44,29 +44,15 @@ npm run dev
 
 Open http://localhost:5173/ in your browser to view the site.
 
-Folder Structure (Simplified)
 
-📂 src
-├── 📁 assets 
-├── 📁 components 
-│ ├── Navbar 
-│ ├── Hero 
-│ ├── Program 
-│ ├── About 
-│ ├── Campus 
-│ ├── Testimonials 
-│ ├── Contact 
-│ ├── Footer 
-│ ├── VideoPlayer 
-├── App.jsx 
-├── index.css 
-├── main.jsx 
-
-Contact
+** Contact **
 
 For any inquiries, feel free to reach out:
+
 📧 yraje7475@gmail.com
+
 📞 +9563-456-7890
+
 📍 Mantripukhri, Imphal, Manipur - 795002, India
 
 © 2025 Edusity. All rights reserved.
